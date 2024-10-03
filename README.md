@@ -28,8 +28,8 @@ The PiNN is trained using:
 ![Slope Stability Visualization - sigma_xy](sigma_xy.png)
 ![Slope Stability Visualization - Plastic point](Plastic_point.png)
 
--**Safety factor from PiNNs = 1.54 **
--**Safety factor from FEM = 1.876 **
+-**Safety factor from PiNNs** = 1.54
+-**Safety factor from FEM** = 1.876 
 
 - ## Requirements
 - Python 3.x
