@@ -18,6 +18,14 @@ The PiNN is trained using:
   - Friction angle = 13° (for example) to compare with FEM from Plaxis2d
   - Unit Weight (γ): 18 kN/m³ (for example) to compare with FEM from Plaxis2d
 - **Boundary Conditions**: Fixed displacements on the bottom, left, and right sides.
+- ![Slope Stability Visualization - Dimension](Dimension-Material-Properties.png)
+
+## Result
+![Slope Stability Visualization - ux](ux.png)
+![Slope Stability Visualization - uy](uy.png)
+![Slope Stability Visualization - sigma_xx](sigma_xx.png)
+![Slope Stability Visualization - sigma_yy](sigma_yy.png)
+![Slope Stability Visualization - sigma_xy](sigma_xy.png)
 
 - ## Requirements
 - Python 3.x
