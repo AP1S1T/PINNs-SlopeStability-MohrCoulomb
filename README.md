@@ -26,6 +26,7 @@ The PiNN is trained using:
 ![Slope Stability Visualization - sigma_xx](sigma_xx.png)
 ![Slope Stability Visualization - sigma_yy](sigma_yy.png)
 ![Slope Stability Visualization - sigma_xy](sigma_xy.png)
+![Slope Stability Visualization - Plastic point](Plastic_point.png)
 
 - ## Requirements
 - Python 3.x
