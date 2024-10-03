@@ -34,3 +34,11 @@ The PiNN is trained using:
 - NumPy
 - Matplotlib
 - Pandas
+## Installation
+
+Install the necessary tools using:
+
+```bash
+pip install torch matplotlib numpy
+pip install pandas
+pip install pytorch
