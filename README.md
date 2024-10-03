@@ -29,6 +29,7 @@ The PiNN is trained using:
 ![Slope Stability Visualization - Plastic point](Plastic_point.png)
 
 -**Safety factor from PiNNs** = 1.54
+
 -**Safety factor from FEM** = 1.876 
 
 - ## Requirements
